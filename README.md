@@ -11,7 +11,7 @@ Self-hosted, Node.js based analytics tool for those who care about privacy. Acke
 [🌍 Website](https://ackee.electerious.com) | [🔮 Live Demo](https://demo.ackee.electerious.com) | [🧸 GraphQL Playground](https://demo.ackee.electerious.com/api)
 
 <br/>
-
+vfdvg
 ![Ackee in a browser](https://s.electerious.com/images/ackee/readme.png)
 
 </div>
